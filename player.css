@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ /* batas */
+.text {
+    text-align: center;
+    margin: 100px;
+    background-color: #92817a;
+}
+
+.text h1 {
+    color: #0099ff;
+    font-size: 50px;
+    font-style: normal
+}
+
+.text h2 {
+    color: #0099ff;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.text h3 {
+    color: #0099ff;
+    font-size: 50px;
+    font-style: oblique
+}
+/* batas end */
+
+/* batas */
+.login {
+    text-align: center;
+
+}
+
+.login label {
+    color: #000000;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.login input {
+    height: 20px;
+    font-size: 15px;
+}
+/* batas end */
+
+/* batas */
+.cirprop {
+    background-color: #ff8c57;
+    min-height: 100vh;
+}
+
+.circle {
+    padding: 20px 50px;
+    background-color: #ff8c57;
+}
+
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color: #ff4b4b;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot2 {
+    height: 200px;
+    width: 200px;
+    background-color: #ff6c6c;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.bawah-text{
+    margin: 25px;
+    width: 50px;
+    text-align: center;
+    background-color: #ff8c57;
+}
+
+.text1 {
+    width: 100px;
+    height: 25px;
+}
+
+.text2 {
+    width: 100px;
+    height: 25px;
+}
+
+.waktu {
+    font-size: 25px;
+}
+
+.skor {
+    font-size: 25px;
+}
